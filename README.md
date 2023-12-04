@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 🎓 I'm a graduate student at Northeastern University, pursuing my Master's degree in Information Systems with a specialization in Data Analytics and Engineering. I'm passionate about leveraging data to drive insights and create meaningful solutions.
 
 💻 My technical skills include proficiency in programming languages such as Python, R, and JavaScript. I have hands-on experience with various database systems, including MySQL, SQL Server, PostgreSQL, MongoDB, Oracle DB, Redshift, and NoSQL. I excel in ETL data modeling, data warehousing, data wrangling, and both descriptive and inferential statistics. I'm also well-versed in data visualization tools like PowerBI and Tableau.
+
 ☁️ I have a strong background in working with data cloud services, including GCP, AWS, Amazon S3, Amazon EC2, AWS Lambda, and Microsoft Azure. I am skilled in data tools such as Alteryx, Talend (ETL tool), ER Studios, Airflow, Snowflake, and Navicat Data Modeler. My software proficiency extends to Git, Jenkins, JIRA, Kafka, Airflow, Docker, Kubernetes, Salesforce, and MATLAB.
 
 🌟 In my previous role as a Salesforce Administrator and Ooperations Engineer at Vodafone Intelligent Solutions, I led and participated in Agile sprints, ensuring on-time delivery of project milestones. I administered Salesforce Tableau CRM, optimized CI/CD pipelines for Salesforce deployment, and automated time-intensive tasks, resulting in improved operational efficiency.
