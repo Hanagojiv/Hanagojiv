@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ☁️ I have a strong background in working with data cloud services, including GCP, AWS, Amazon S3, Amazon EC2, AWS Lambda, and Microsoft Azure. I am skilled in data tools such as Alteryx, Talend (ETL tool), ER Studios, Airflow, Snowflake, and Navicat Data Modeler. My software proficiency extends to Git, Jenkins, JIRA, Kafka, Airflow, Docker, Kubernetes, Salesforce, and MATLAB.
 
-🌟 In my previous role as a Salesforce Administrator and Ooperations Engineer at Vodafone Intelligent Solutions, I led and participated in Agile sprints, ensuring on-time delivery of project milestones. I administered Salesforce Tableau CRM, optimized CI/CD pipelines for Salesforce deployment, and automated time-intensive tasks, resulting in improved operational efficiency.
+🌟 I have a proven track record of success in Salesforce analytics and administration, where I've applied my skills to enhance CRM activities and data quality significantly. My projects demonstrate my ability to optimize data processes and deliver actionable insights, which is evident in my work on custom ETL solutions and streamlining data entry processes.
 
 📊 I'm passionate about data-driven decision-making and have worked on a variety of projects, including New York City Motor Vehicle Collision analysis, American Restaurants Food Inspections, Second-hand Car Price Prediction, and an Emotion-Based Music Player. These projects showcase my expertise in data analysis, ETL workflows, and predictive modeling.
 # 💻 Tech Stack:
